@@ -1,0 +1,3 @@
+# Configuration template
+concurrency: 10
+output_dir: output

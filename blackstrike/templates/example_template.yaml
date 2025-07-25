@@ -1,0 +1,6 @@
+# Sample scan template
+type: http
+matchers:
+  - type: word
+    words:
+      - "Welcome"
